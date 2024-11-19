@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enock Kiptoo.
--  I’m w a web developer based in Nairobi,Kenya with a pratical experience is html,css,javascript,python and SQL database management,
+-  I’m a web developer based in Nairobi,Kenya with a pratical experience is html,css,javascript,python and SQL database management,
 -  I’m currently learning Algorithms and data structures,
 - I’m looking to collaborate on html,css,javascript,django,sql databases,websites building(for real estate,ecommerce store,institutions,publidc and private businesses,personal brand websites,car dealership websites,etc),graphic design,uiand ux design ,
 -  You can contact me via email enockkiptoo590@gamail.com,,
